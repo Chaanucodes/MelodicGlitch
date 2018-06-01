@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Melodic Glitch</string>
+    <string name="welcomeText">Welcome to the best music game you have ever played</string>
+    <string name="play">Play</string>
+    <string name="credits">Made by: Chaanucodes</string>
+    <string name="recognize">Recognize the artist by playing a small part of the song</string>
+    <string name="greenday">Green Day</string>
+    <string name="train">Train</string>
+    <string name="backstreetboys">Backstreet boys</string>
+    <string name="maroon5">Maroon 5</string>
+    <string name="win">Congrats, You won!!</string>
+    <string name="congratulations">Congratulations</string>
+    <string name="aerosmith">Aerosmith</string>
+    <string name="simpleplan">Simple plan</string>
+    <string name="blue">BLUE</string>
+    <string name="thescript">The Script</string>
+    <string name="magic">MAGIC</string>
+    <string name="honeysingh">Honey Singh</string>
+    <string name="onedirection">One Direction</string>
+    <string name="edsheeran">Ed Sheeran</string>
+    <string name="theweeknd">The Weeknd</string>
+    <string name="chrisbrown">Chris Brown</string>
+    <string name="coldplay">Coldplay</string>
+    <string name="eden">EDEN</string>
+    <string name="hoobastank">Hoobastank</string>
+    <string name="jayz">Jay-Z</string>
+    <string name="owlkl">Owl City and Kendrick Llamar</string>
+    <string name="owlsc">Owl city and Shawn Crystopher</string>
+    <string name="adm50">Adam Levine and 50 cent</string>
+    <string name="ok">OK</string>
+    <string name="newLevel">Let\'s kick things up a notch, okay?</string>
+    <string name="track">Listen to this famous track and see if you know its name</string>
+    <string name="knockeddown">Knocked down</string>
+    <string name="tubthumping">tubthumping</string>
+    <string name="barbrawl">Barbrawling</string>
+    <string name="thisis">This is the way I am</string>
+    <string name="dontyou">Don\'t you know</string>
+    <string name="itsmylife">it\'s my life</string>
+    <string name="immlivelife">Imma live my life</string>
+    <string name="liveyourlife">live your life</string>
+    <string name="ishqtera">Ishq tera tadpave</string>
+    <string name="Itsnotmylife">It\'s not my life</string>
+    <string name="itsmytie">It\'s my tie</string>
+
+</resources>
